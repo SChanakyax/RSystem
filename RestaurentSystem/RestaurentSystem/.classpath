@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="RestaurentSystem/src"/>
+	<classpathentry kind="lib" path="RestaurentSystem/Resources/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="RestaurentSystem/Resources/JTattoo-1.6.13.jar"/>
+	<classpathentry kind="lib" path="RestaurentSystem/Resources/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="RestaurentSystem/Resources/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="RestaurentSystem/Resources/oclc-dbutils-1.0.20080317.jar"/>
+	<classpathentry kind="lib" path="RestaurentSystem/Resources/rs2xml.jar"/>
+	<classpathentry kind="lib" path="RestaurentSystem/Resources/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="output" path="RestaurentSystem/bin"/>
+</classpath>
